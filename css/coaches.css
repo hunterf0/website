@@ -1,0 +1,18 @@
+.Stidham{
+  height: 225px;
+}
+.Fishel{
+  height: 225px;
+}
+.Lucas{
+  height: 225px;
+}
+.Justin{
+  height: 225px;
+}
+body{
+  background: linear-gradient(orange,blue)
+}
+p{
+  font-family:"Lucida",monospace;
+}

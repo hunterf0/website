@@ -1,0 +1,18 @@
+.Hornets{
+  height: 450px
+}
+.Players{
+  height: 450px
+}
+.Peabody{
+  height: 450px
+}
+.best buddies{
+  height: 450px
+}
+body{
+  background: linear-gradient(orange,white,blue)
+}
+P{
+  font-family:"Lucida",monospace;
+}
